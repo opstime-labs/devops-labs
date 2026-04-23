@@ -73,7 +73,7 @@ I turn what I learn into:
 
 ## Connect
 
-- GitHub: `[https://github.com/your-username](https://github.com/opstime-labs/)`
+- GitHub: [OpsTime Labs](https://github.com/opstime-labs/)
 - LinkedIn: `TBD`
 - Blog: `TBD`
 
