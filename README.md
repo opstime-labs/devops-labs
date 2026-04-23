@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m CP 4Learning
+# Hi, I’m Chand
 
 </div>
 
